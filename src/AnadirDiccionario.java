@@ -6,6 +6,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import static jdk.nashorn.internal.runtime.regexp.joni.constants.AsmConstants.S;
 
+//prueba
 
 public class AñadirDiccionario extends javax.swing.JFrame {
 
